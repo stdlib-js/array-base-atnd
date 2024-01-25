@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import atnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-atnd@esm/index.mjs';
+import atnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-atnd@v0.1.0-esm/index.mjs';
 ```
 
 #### atnd( x, i0\[, ...indices] )
@@ -111,7 +111,7 @@ var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-bas
 import filled2dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled2d-by@esm/index.mjs';
 import binary2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-binary2d@esm/index.mjs';
 import zeros2d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros2d@esm/index.mjs';
-import atnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-atnd@esm/index.mjs';
+import atnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-atnd@v0.1.0-esm/index.mjs';
 
 var shape = [ 5, 5 ];
 
